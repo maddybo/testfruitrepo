@@ -3,5 +3,6 @@
   "version": "1.1",
   "author": "madboszka",
   "manifest_version": 3,
-  "view": "index.html"
+  "view": "index.html",
+  "script": "script.js"
 }
