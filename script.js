@@ -1,3 +1,3 @@
-const mounted = () => {
+window.mounted = () => {
   console.log('Hello world')
 }
